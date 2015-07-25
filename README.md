@@ -47,7 +47,7 @@ The final tidy dataset is shown in the file *tidydata.txt*. All the works done i
 + prefix "f" is replaced by "frequency"
 + "Mag" is replaced by "Magnitude"
 
-14. Now, the final tidy dataset was created with the average of each variable for each activity and each subject based on the combined dataset created above. The final tidy dataset was then written in text file using write.table() function and was name as *tidydata.txt*.
 
-15. All the works done in this project (dataset, script, readme and code book files) are shared via github (https://github.com/irzan3/Getting-Cleaning-Data-Course-Project)
+
+Now, the final tidy dataset was created with the average of each variable for each activity and each subject based on the combined dataset created above. The final tidy dataset was then written in text file using write.table() function and was name as *tidydata.txt*. All the works done in this project (dataset, script, readme and code book files) are shared via github (https://github.com/irzan3/Getting-Cleaning-Data-Course-Project)
 
