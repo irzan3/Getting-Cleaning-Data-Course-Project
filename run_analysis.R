@@ -89,9 +89,6 @@ Data <- Data[order(Data$subject,Data$activity),]
 write.table(Data, file = "./data/tidydata.txt",row.name = FALSE)
 
 
-## Produce Codebook
-library(knitr)
-knit2html("codebook.md")
 
 
 
